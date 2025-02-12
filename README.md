@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project is my Business Data Management Capstone Project, completed during my second year of BS in Data Science and Applications at Indian Institute of Technology, Madras. The focus is on a small logistics and transportation firm in Bankura, West Bengal, India, specializing in B2B cement transportation. The firm is grappling with operational challenges, including difficulty in arranging third-party trucks during peak demand periods, effective coordination of backhaul trips, and maintaining a high driver retention rate. These issues are impacting productivity and leading to potential business losses.
+This project is my Business Data Management Capstone Project, completed during my second year of BS in Data Science and Applications at Indian Institute of Technology, Madras. The focus was on a small logistics and transportation firm in Bankura, West Bengal, India, specializing in B2B cement transportation. The firm was grappling with operational challenges, including difficulty in arranging third-party trucks during peak demand periods, effective coordination of backhaul trips, and maintaining a high driver retention rate. These issues were impacting productivity and leading to potential business losses.
 
-The aim of this project is to assist the organization in understanding loading and trip trends, identifying operational hotspots for backhaul trips, and recognizing high-performing drivers and trucks. By leveraging a data-driven approach, this project seeks to improve route optimization, set performance benchmarks, and enhance overall operational efficiency and profitability.
+The aim of this project was to assist the organization in understanding loading and trip trends, identifying operational hotspots for backhaul trips, and recognizing high-performing drivers and trucks. By leveraging a data-driven approach, this project sought to improve route optimization, set performance benchmarks, and enhance overall operational efficiency and profitability.
 
 ## Repository Contents
 
